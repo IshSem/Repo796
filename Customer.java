@@ -6,4 +6,7 @@ class Customer
   {
     return custid;
   }
+  public string custname{
+     return cname;
+  }
 }
