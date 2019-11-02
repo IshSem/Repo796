@@ -30,6 +30,7 @@ class Customer
     public String toString
 
     {
+	System.out.println("added by master");
     }
    @override
     public String addedbybr1
