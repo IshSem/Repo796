@@ -15,4 +15,7 @@ class Customer
      return cname;
      
   }
+    public void getcust
+    {
+    }
 }
